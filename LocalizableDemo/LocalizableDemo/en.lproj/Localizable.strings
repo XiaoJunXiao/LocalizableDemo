@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  LocalizableDemo
+
+  Created by Xiao on 2019/8/8.
+  Copyright © 2019 Xiao. All rights reserved.
+*/
+"LocalizableDemo" = "Localizable Demo";
+"Language" = "Language";
+"SelectLanguage" = "Select Language";
+"TestText" = "Multi-language applications generally try to avoid using less text, because the length of each country's text is different, there will be various problems on the display, especially the navigation bar and the bottom bar, you need to reset the width after switching languages; then select the language You can use the send notification to tell each interface to switch the text language.";

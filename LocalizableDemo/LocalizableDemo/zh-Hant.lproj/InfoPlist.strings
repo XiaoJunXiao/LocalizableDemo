@@ -1,0 +1,8 @@
+/* 
+  InfoPlist.strings
+  LocalizableDemo
+
+  Created by Xiao on 2019/8/8.
+  Copyright © 2019 Xiao. All rights reserved.
+*/
+"NSPhotoLibraryUsageDescription" = "App需要獲取個人照片進行展示和編輯是否允許此App獲取相冊權限？";

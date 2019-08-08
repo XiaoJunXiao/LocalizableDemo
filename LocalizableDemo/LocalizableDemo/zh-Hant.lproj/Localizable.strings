@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  LocalizableDemo
+
+  Created by Xiao on 2019/8/8.
+  Copyright © 2019 Xiao. All rights reserved.
+*/
+"LocalizableDemo" = "國際化語言Demo";
+"Language" = "語言";
+"SelectLanguage" = "選擇語言";
+"TestText" = "有多語言的應用一般都盡量避免少使用到文字，因為各國文字長度不一，在顯示上會出現各種問題，尤其是導航欄和底部欄，切換語言後需要重新設置寬度；然後在選擇語言的時候可使用發送通知來告訴各界面切換文字語言。";

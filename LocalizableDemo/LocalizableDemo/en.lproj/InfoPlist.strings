@@ -1,0 +1,8 @@
+/* 
+  InfoPlist.strings
+  LocalizableDemo
+
+  Created by Xiao on 2019/8/8.
+  Copyright © 2019 Xiao. All rights reserved.
+*/
+"NSPhotoLibraryUsageDescription" = "The app needs to get photos for display and editing. Is this app allowed to get album permissions?";
